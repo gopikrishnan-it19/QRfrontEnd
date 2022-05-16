@@ -1,3 +1,11 @@
+# Install
+```
+git clone https://github.com/gopikrishnan-it19/QRfrontEnd.git
+cd QRfrontEnd
+npm install
+npm start
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
